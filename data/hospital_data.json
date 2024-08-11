@@ -1,0 +1,964 @@
+{
+    "병원정보": [
+        {
+            "hospital_name": "24시독스동물병원",
+            "hospital_number": "032-433-0075",
+            "hospital_addr": "인천 남동구 남동대로 912 유진빌딩 1층\n(지번) 간석동 210-2"
+        },
+        {
+            "hospital_name": "24시유앤미동물병원",
+            "hospital_number": "032-433-0755",
+            "hospital_addr": "인천 남동구 남동대로 910\n(지번) 간석동 210-9"
+        },
+        {
+            "hospital_name": "24시 인천동물병원 치료해주오",
+            "hospital_number": "032-432-1432",
+            "hospital_addr": "인천 남동구 논현로46번길 22\n(지번) 논현동 637"
+        },
+        {
+            "hospital_name": "작전24동물병원",
+            "hospital_number": "032-544-0075",
+            "hospital_addr": "인천 계양구 장제로694번길 3\n(지번) 작전동 925-1"
+        },
+        {
+            "hospital_name": "24시더원동물병원",
+            "hospital_number": "032-569-6677",
+            "hospital_addr": "인천 서구 발산로 41 4층 401~407호\n(지번) 원당동"
+        },
+        {
+            "hospital_name": "24시마곡M동물의료센터",
+            "hospital_number": "02-2662-7515",
+            "hospital_addr": "서울 강서구 방화대로33길 3 성은빌딩 1, 2층\n(지번) 방화동 246-64"
+        },
+        {
+            "hospital_name": "24시밀리언동물병원",
+            "hospital_number": "02-2061-5277",
+            "hospital_addr": "서울 양천구 신월로 320 1층\n(지번) 신정동 1028-4"
+        },
+        {
+            "hospital_name": "24시 글로리 동물병원",
+            "hospital_number": "02-855-8575",
+            "hospital_addr": "서울 금천구 시흥대로 483\n(지번) 독산동 145-13"
+        },
+        {
+            "hospital_name": "가나24시동물병원",
+            "hospital_number": "031-402-4060",
+            "hospital_addr": "경기 안산시 단원구 중앙대로 899 안산롯데프라자 1,2층\n(지번) 고잔동 537-4"
+        },
+        {
+            "hospital_name": "24시쎈텀동물병원",
+            "hospital_number": "031-992-8275",
+            "hospital_addr": "경기 김포시 고촌읍 수기로 109 캐슬힐 115, 208호\n(지번) 고촌읍 신곡리 880-1"
+        },
+        {
+            "hospital_name": "24시 모두의동물병원",
+            "hospital_number": "02-6951-2475",
+            "hospital_addr": "경기 광명시 하안로 289 태홍빌딩 A동 2층\n(지번) 하안동 51"
+        },
+        {
+            "hospital_name": "24시마음든든동물병원",
+            "hospital_number": "031-474-2475",
+            "hospital_addr": "경기 안양시 만안구 경수대로 1234 3층\n(지번) 석수동 168-27"
+        },
+        {
+            "hospital_name": "24시산들산들동물병원",
+            "hospital_number": "02-393-3588",
+            "hospital_addr": "서울 마포구 마포대로16길 7\n(지번) 아현동 424-14"
+        },
+        {
+            "hospital_name": "도그앤캣 24시동물병원",
+            "hospital_number": "031-402-4900",
+            "hospital_addr": "경기 안산시 단원구 고잔2길 16\n(지번) 고잔동 531-2"
+        },
+        {
+            "hospital_name": "닥터윤 24시동물병원",
+            "hospital_number": "02-359-2020",
+            "hospital_addr": "서울 은평구 통일로 817\n(지번) 대조동 187-24"
+        },
+        {
+            "hospital_name": "파주24시동물병원",
+            "hospital_number": "031-944-5575",
+            "hospital_addr": "경기 파주시 교하로 87\n(지번) 목동동 941-1"
+        },
+        {
+            "hospital_name": "24시 동물병원",
+            "hospital_number": "031-281-7585",
+            "hospital_addr": "경기 용인시 기흥구 구갈로 53\n(지번) 구갈동 391-5"
+        },
+        {
+            "hospital_name": "와이즈24시동물병원",
+            "hospital_number": "02-3446-8253",
+            "hospital_addr": "서울 강남구 학동로6길 7\n(지번) 논현동 123-5"
+        },
+        {
+            "hospital_name": "24시예스동물병원",
+            "hospital_number": "02-534-3475",
+            "hospital_addr": "서울 서초구 잠원로 24\n(지번) 반포1동 20-45"
+        },
+        {
+            "hospital_name": "24시 애니 동물병원",
+            "hospital_number": "02-926-8275",
+            "hospital_addr": "서울 성북구 보문로 99 1층\n(지번) 보문동5가 3-1"
+        },
+        {
+            "hospital_name": "24시센트럴동물메디컬센터",
+            "hospital_number": "02-3395-7975",
+            "hospital_addr": "서울 성동구 고산자로 207\n(지번) 행당동 318-36"
+        },
+        {
+            "hospital_name": "청담아이윌24시동물병원",
+            "hospital_number": "02-6925-7021",
+            "hospital_addr": "서울 강남구 삼성로133길 3 지하1층\n(지번) 청담동 47"
+        },
+        {
+            "hospital_name": "24시숨동물병원",
+            "hospital_number": "031-548-2475",
+            "hospital_addr": "경기 수원시 권선구 권선로 715\n(지번) 권선동 1022-7"
+        },
+        {
+            "hospital_name": "펫앤유 24시 동물병원",
+            "hospital_number": "031-962-8274",
+            "hospital_addr": "경기 고양시 덕양구 통일로 1128\n(지번) 내유동 431-9"
+        },
+        {
+            "hospital_name": "신사24시sky동물병원",
+            "hospital_number": "",
+            "hospital_addr": "서울 강남구 도산대로 155\n(지번) 신사동 561-16"
+        },
+        {
+            "hospital_name": "24시분당리더스동물병원",
+            "hospital_number": "031-711-8275",
+            "hospital_addr": "경기 성남시 분당구 성남대로 45 2층\n(지번) 구미동 157"
+        },
+        {
+            "hospital_name": "24시 서울YES동물병원",
+            "hospital_number": "031-272-1313",
+            "hospital_addr": "경기 용인시 수지구 현암로 81 벤포스타1 1층\n(지번) 죽전동 1174-1"
+        },
+        {
+            "hospital_name": "24시 폴동물병원",
+            "hospital_number": "031-717-7558",
+            "hospital_addr": "경기 성남시 분당구 성남대로 385 분당클리닉빌딩 102호\n(지번) 정자동 15-2"
+        },
+        {
+            "hospital_name": "고덕24시동물병원",
+            "hospital_number": "02-6227-8275",
+            "hospital_addr": "서울 강동구 동남로 877 106호\n(지번) 명일동 48-17"
+        },
+        {
+            "hospital_name": "24시행당종합동물병원",
+            "hospital_number": "02-3395-7975",
+            "hospital_addr": "서울 성동구 고산자로 207\n(지번) 행당동 318-36"
+        },
+        {
+            "hospital_name": "24시다나을동물병원 미사점",
+            "hospital_number": "031-8027-0975",
+            "hospital_addr": "경기 하남시 미사강변동로 100-1 2층\n(지번) 망월동 1125"
+        },
+        {
+            "hospital_name": "24시큰사랑동물병원",
+            "hospital_number": "031-8011-3690",
+            "hospital_addr": "경기 이천시 중리천로 135 미래캐슬 2동 1층\n(지번) 중리동 468-24"
+        },
+        {
+            "hospital_name": "굿모닝24시동물병원",
+            "hospital_number": "041-576-7552",
+            "hospital_addr": "충남 천안시 서북구 쌍용대로 43\n(지번) 쌍용1동 1177"
+        },
+        {
+            "hospital_name": "청주24시 동물병원",
+            "hospital_number": "043-267-4119",
+            "hospital_addr": "충북 청주시 서원구 사직대로 256\n(지번) 사직동 597-35"
+        },
+        {
+            "hospital_name": "24시동물병원",
+            "hospital_number": "",
+            "hospital_addr": "충북 제천시 의림대로 155-2\n(지번) 의림동 8-10"
+        },
+        {
+            "hospital_name": "24시청주아이동물병원",
+            "hospital_number": "043-214-9975",
+            "hospital_addr": "충북 청주시 청원구 충청대로 103\n(지번) 율량동 1070"
+        },
+        {
+            "hospital_name": "마크로24시동물병원",
+            "hospital_number": "042-486-3375",
+            "hospital_addr": "대전 서구 한밭대로570번길 8\n(지번) 월평동 429"
+        },
+        {
+            "hospital_name": "대전24시 센트럴동물병원",
+            "hospital_number": "042-719-7779",
+            "hospital_addr": "대전 중구 계룡로 789 1층\n(지번) 용두동 119-6"
+        },
+        {
+            "hospital_name": "24시포인트동물의료센터",
+            "hospital_number": "032-882-8275",
+            "hospital_addr": "인천 미추홀구 낙섬중로 78\n(지번) 용현동 577-42"
+        },
+        {
+            "hospital_name": "군산24시제일동물병원",
+            "hospital_number": "063-461-5079",
+            "hospital_addr": "전북 군산시 진포로 73\n(지번) 미장동 495-6"
+        },
+        {
+            "hospital_name": "24시퍼스트동물의료센터",
+            "hospital_number": "032-435-6333",
+            "hospital_addr": "인천 미추홀구 경원대로 890 1층 101호\n(지번) 주안동 929-16"
+        },
+        {
+            "hospital_name": "24시보듬동물병원",
+            "hospital_number": "033-655-7975",
+            "hospital_addr": "강원특별자치도 강릉시 경강로 2070\n(지번) 임당동 134-6"
+        },
+        {
+            "hospital_name": "24시블루밍동물병원",
+            "hospital_number": "062-416-7975",
+            "hospital_addr": "광주 북구 대자로 36 MVG빌딩 3층 304~306호\n(지번) 운암동 439-1"
+        },
+        {
+            "hospital_name": "인천24시스카이동물메디컬센터",
+            "hospital_number": "032-715-7959",
+            "hospital_addr": "인천 남동구 남동대로799번길 8 구월지웰시티푸르지오 오피스텔 C동 3층 301호\n(지번) 구월동 1608"
+        },
+        {
+            "hospital_name": "대구24시동물병원",
+            "hospital_number": "053-352-8277",
+            "hospital_addr": "대구 북구 침산남로 61\n(지번) 노원동1가 1-8"
+        },
+        {
+            "hospital_name": "24시프라임동물병원",
+            "hospital_number": "053-631-9966",
+            "hospital_addr": "대구 달서구 비슬로 2746\n(지번) 대곡동 964"
+        },
+        {
+            "hospital_name": "24시언제나동물병원",
+            "hospital_number": "062-571-0011",
+            "hospital_addr": "광주 북구 하백로 5\n(지번) 매곡동 370-6"
+        },
+        {
+            "hospital_name": "이스턴24시동물병원",
+            "hospital_number": "053-964-0750",
+            "hospital_addr": "대구 동구 반야월로 140\n(지번) 신기동 179-5"
+        },
+        {
+            "hospital_name": "24시팔용필동물병원",
+            "hospital_number": "055-255-1275",
+            "hospital_addr": "경남 창원시 의창구 평산로 102 1층\n(지번) 팔용동 42-36"
+        },
+        {
+            "hospital_name": "24시송도오케이동물의료센터",
+            "hospital_number": "032-832-7975",
+            "hospital_addr": "인천 연수구 랜드마크로 68 랜드마크시티센트럴더샵 203동 2층 261~265호\n(지번) 송도동 311-1"
+        },
+        {
+            "hospital_name": "24시동물병원",
+            "hospital_number": "064-702-2475",
+            "hospital_addr": "제주특별자치도 제주시 연삼로 353\n(지번) 도남동 81-7"
+        },
+        {
+            "hospital_name": "닥터강 동물병원",
+            "hospital_number": "052-246-3123",
+            "hospital_addr": "울산 중구 화진길 13-2 1층\n(지번) 태화동 37-7"
+        },
+        {
+            "hospital_name": "24시중리행복한동물병원",
+            "hospital_number": "055-231-7555",
+            "hospital_addr": "경남 창원시 마산회원구 내서읍 호원로 191\n(지번) 내서읍 중리 385-3"
+        },
+        {
+            "hospital_name": "24시부평종합동물의료센터",
+            "hospital_number": "032-511-6836",
+            "hospital_addr": "인천 부평구 부평대로 138 신일유스테이션 2층\n(지번) 부평동 431-12"
+        },
+        {
+            "hospital_name": "24시송도힐동물메디컬센터",
+            "hospital_number": "032-834-7275",
+            "hospital_addr": "인천 연수구 컨벤시아대로 55 송도이안상가 106~108호\n(지번) 송도동 2-3"
+        },
+        {
+            "hospital_name": "24시송도온동물의료센터",
+            "hospital_number": "",
+            "hospital_addr": "인천 연수구 인천타워대로180번길 11 더샵송도센트럴파크3차 상가 B동 2층 213호\n(지번) 송도동 92"
+        },
+        {
+            "hospital_name": "24시쪼꼬동물메디컬센터",
+            "hospital_number": "032-565-2943",
+            "hospital_addr": "인천 서구 청중로478번안길 4 2층\n(지번) 가정동 606-2"
+        },
+        {
+            "hospital_name": "청라공감동물병원",
+            "hospital_number": "032-563-0094",
+            "hospital_addr": "인천 서구 중봉대로586번길 22 청라 풍림엑슬루타워 B동 128~131호\n(지번) 청라동 164-1"
+        },
+        {
+            "hospital_name": "24시 웰니스동물의료센터",
+            "hospital_number": "032-201-7575",
+            "hospital_addr": "경기 부천시 부흥로303번길 62 그린프라자 2층\n(지번) 중동 1128"
+        },
+        {
+            "hospital_name": "24시 스마트 동물의료센터",
+            "hospital_number": "031-432-1224",
+            "hospital_addr": "경기 시흥시 배곧3로 86 센터프라자2 2층 207,208호\n(지번) 정왕동 2513-1"
+        },
+        {
+            "hospital_name": "24시해든동물메디컬센터",
+            "hospital_number": "032-715-7579",
+            "hospital_addr": "경기 부천시 신흥로 190 위브더스테이트 1단지 상가 2층 213-216호\n(지번) 중동 1106"
+        },
+        {
+            "hospital_name": "24시우리들동물메디컬센터",
+            "hospital_number": "02-2642-7588",
+            "hospital_addr": "서울 양천구 신월로 355 더넥스트목동 1,2층\n(지번) 신정동 982-4"
+        },
+        {
+            "hospital_name": "24시이지동물의료센터",
+            "hospital_number": "032-348-7975",
+            "hospital_addr": "경기 부천시 부일로 712 조양시티프라자 202호\n(지번) 역곡동 49-5"
+        },
+        {
+            "hospital_name": "24시월드펫동물메디컬센터",
+            "hospital_number": "02-2698-7582",
+            "hospital_addr": "서울 양천구 신월로 208\n(지번) 신월동 602-1"
+        },
+        {
+            "hospital_name": "24시i동물메디컬센터",
+            "hospital_number": "032-677-5262",
+            "hospital_addr": "경기 부천시 소사로 779\n(지번) 원종동 229-8"
+        },
+        {
+            "hospital_name": "24시센트럴동물의료센터",
+            "hospital_number": "031-432-2475",
+            "hospital_addr": "경기 시흥시 정왕대로 174 광개토빌딩 110,203호\n(지번) 정왕동 1726-1"
+        },
+        {
+            "hospital_name": "24시지구촌동물메디컬센터",
+            "hospital_number": "02-869-7582",
+            "hospital_addr": "서울 구로구 구로중앙로31길 30 유성빌딩\n(지번) 구로동 505-17"
+        },
+        {
+            "hospital_name": "24시온누리동물메디컬센터",
+            "hospital_number": "031-487-7500",
+            "hospital_addr": "경기 안산시 단원구 광덕대로 251 1층\n(지번) 고잔동 525-1"
+        },
+        {
+            "hospital_name": "24시아프리카동물메디컬센터",
+            "hospital_number": "02-3663-7975",
+            "hospital_addr": "서울 강서구 공항대로 335 경왕빌딩\n(지번) 등촌동 664-1"
+        },
+        {
+            "hospital_name": "김포메디엘동물병원",
+            "hospital_number": "031-985-7075",
+            "hospital_addr": "경기 김포시 김포한강4로 521 한강메디프라자\n(지번) 구래동 6880-5"
+        },
+        {
+            "hospital_name": "24시 강서젠틀리동물의료센터",
+            "hospital_number": "02-2662-8111",
+            "hospital_addr": "서울 강서구 마곡중앙1로 72 엠타워 101호\n(지번) 마곡동 730-328"
+        },
+        {
+            "hospital_name": "세인트동물병원",
+            "hospital_number": "02-2695-0072",
+            "hospital_addr": "서울 강서구 강서로 36 1층\n(지번) 화곡동 342-57"
+        },
+        {
+            "hospital_name": "화이트동물병원",
+            "hospital_number": "032-561-7582",
+            "hospital_addr": "인천 서구 서곶로 866\n(지번) 마전동 1056-6"
+        },
+        {
+            "hospital_name": "금천24시K동물의료센터",
+            "hospital_number": "02-808-2475",
+            "hospital_addr": "서울 금천구 시흥대로 251 도일산호시티빌 1층 105호\n(지번) 시흥동 999-1"
+        },
+        {
+            "hospital_name": "24시위드유동물의료센터",
+            "hospital_number": "031-318-4975",
+            "hospital_addr": "경기 시흥시 은계번영길 1 2층\n(지번) 은행동 646"
+        },
+        {
+            "hospital_name": "김포24시힐동물의료센터",
+            "hospital_number": "031-987-7585",
+            "hospital_addr": "경기 김포시 김포한강2로 11 수정마을쌍용예가아파트 113동 상가 1,2층\n(지번) 장기동 2004-4"
+        },
+        {
+            "hospital_name": "24시 신도림S동물의료센터",
+            "hospital_number": "02-6949-3575",
+            "hospital_addr": "서울 구로구 경인로 619-3 상가 201호\n(지번) 신도림동 435-10"
+        },
+        {
+            "hospital_name": "24시굿케어동물의료센터",
+            "hospital_number": "02-6956-2475",
+            "hospital_addr": "서울 관악구 남부순환로 1861 1층 103호\n(지번) 봉천동 1673-21"
+        },
+        {
+            "hospital_name": "24시 스마트동물메디컬센터",
+            "hospital_number": "02-387-7582",
+            "hospital_addr": "서울 은평구 은평로 93 1층\n(지번) 응암동 91-5"
+        },
+        {
+            "hospital_name": "신풍동물병원",
+            "hospital_number": "02-835-7572",
+            "hospital_addr": "서울 영등포구 신길로 70\n(지번) 신길동 3611"
+        },
+        {
+            "hospital_name": "다온동물병원",
+            "hospital_number": "031-689-5975",
+            "hospital_addr": "경기 안양시 동안구 평촌대로 124 범계빌딩 1층\n(지번) 평촌동 922-1"
+        },
+        {
+            "hospital_name": "24시일산우리동물의료센터",
+            "hospital_number": "031-913-5550",
+            "hospital_addr": "경기 고양시 일산서구 중앙로 1455 대우시티프라자 1층\n(지번) 주엽동 115"
+        },
+        {
+            "hospital_name": "24시일산나음동물의료센터",
+            "hospital_number": "0507-1492-7975",
+            "hospital_addr": "경기 고양시 일산동구 백마로 223 현대에뜨레보 1층 103-1호\n(지번) 장항동 852"
+        },
+        {
+            "hospital_name": "24시라인동물의료센터",
+            "hospital_number": "02-381-2475",
+            "hospital_addr": "경기 고양시 덕양구 동송로 70 힐스테이트삼송역 상가2층 227-231호\n(지번) 삼송동 291"
+        },
+        {
+            "hospital_name": "흑석동물병원",
+            "hospital_number": "02-822-0275",
+            "hospital_addr": "서울 동작구 현충로 92\n(지번) 흑석동 6-5"
+        },
+        {
+            "hospital_name": "24시치유동물의료센터",
+            "hospital_number": "02-6964-8276",
+            "hospital_addr": "서울 은평구 은평로 213 동원빌딩 1층\n(지번) 녹번동 215"
+        },
+        {
+            "hospital_name": "스마트동물병원 신사본점",
+            "hospital_number": "02-549-0275",
+            "hospital_addr": "서울 강남구 도산대로 213 신동화빌딩\n(지번) 신사동 587-13"
+        },
+        {
+            "hospital_name": "수원24시바른동물의료센터",
+            "hospital_number": "031-291-2475",
+            "hospital_addr": "경기 수원시 권선구 금곡로 213 딜라이트타워 2층\n(지번) 금곡동 1114"
+        },
+        {
+            "hospital_name": "24시SNC동물메디컬센터",
+            "hospital_number": "02-562-7582",
+            "hospital_addr": "서울 강남구 논현로 416 운기빌딩 1층\n(지번) 역삼동 727-8"
+        },
+        {
+            "hospital_name": "OK동물병원",
+            "hospital_number": "02-569-7582",
+            "hospital_addr": "서울 강남구 도곡로51길 4 1층\n(지번) 역삼동 766-20"
+        },
+        {
+            "hospital_name": "24시당신의동물의료센터",
+            "hospital_number": "031-268-6575",
+            "hospital_addr": "경기 수원시 장안구 천천로 100 시네마타워 1층 104, 202호\n(지번) 천천동 516"
+        },
+        {
+            "hospital_name": "24시SD동물의료센터",
+            "hospital_number": "02-2039-0303",
+            "hospital_addr": "서울 중구 왕십리로 407 신당파인힐하나유보라아파트 상가 2층 3~5호\n(지번) 신당동 855"
+        },
+        {
+            "hospital_name": "24시샤인동물메디컬센터",
+            "hospital_number": "02-2088-7775",
+            "hospital_addr": "서울 송파구 오금로 147 JS빌딩\n(지번) 방이동 108-7"
+        },
+        {
+            "hospital_name": "24시 루시드동물메디컬센터",
+            "hospital_number": "02-941-7900",
+            "hospital_addr": "서울 강북구 월계로 3 덕신빌디 4층\n(지번) 미아동 42-11"
+        },
+        {
+            "hospital_name": "24시더힐동물센터",
+            "hospital_number": "",
+            "hospital_addr": "서울 용산구 독서당로 81-1\n(지번) 한남동 29-7"
+        },
+        {
+            "hospital_name": "봉담우리애동물병원",
+            "hospital_number": "031-293-0075",
+            "hospital_addr": "경기 화성시 봉담읍 동화새터길 5\n(지번) 봉담읍 동화리 420-1"
+        },
+        {
+            "hospital_name": "24시타임즈동물의료센터",
+            "hospital_number": "031-232-3500",
+            "hospital_addr": "경기 수원시 팔달구 경수대로 486 1~3층 타임즈동물의료센터\n(지번) 인계동 950-6"
+        },
+        {
+            "hospital_name": "푸른동물종합병원",
+            "hospital_number": "02-963-7582",
+            "hospital_addr": "서울 동대문구 홍릉로 48-1\n(지번) 청량리동 359"
+        },
+        {
+            "hospital_name": "페토피아동물병원",
+            "hospital_number": "02-414-0075",
+            "hospital_addr": "서울 송파구 오금로 203\n(지번) 방이동 124-8"
+        },
+        {
+            "hospital_name": "권앤정 24시 수원동물메디컬 센터",
+            "hospital_number": "031-202-0119",
+            "hospital_addr": "경기 수원시 영통구 덕영대로 1509\n(지번) 영통동 979-4"
+        },
+        {
+            "hospital_name": "24시사람앤동물메디컬센터",
+            "hospital_number": "031-262-0306",
+            "hospital_addr": "경기 용인시 수지구 수지로 124 성북스퀘어 2층 201~208호\n(지번) 성복동 67-6"
+        },
+        {
+            "hospital_name": "24시 스탠다드동물의료센터",
+            "hospital_number": "02-448-6400",
+            "hospital_addr": "서울 송파구 위례송파로 77 우성어반타워 3층 303~307호\n(지번) 거여동 605-4"
+        },
+        {
+            "hospital_name": "24시더케어동물의료센터",
+            "hospital_number": "031-516-8585",
+            "hospital_addr": "경기 구리시 경춘로 294 대신타워 1~3층\n(지번) 수택동 561-2"
+        },
+        {
+            "hospital_name": "용인죽전24시스카이동물메디컬센터",
+            "hospital_number": "031-546-5975",
+            "hospital_addr": "경기 용인시 수지구 용구대로 2748\n(지번) 죽전동 899-8"
+        },
+        {
+            "hospital_name": "분당24시동물의료센터",
+            "hospital_number": "031-605-5119",
+            "hospital_addr": "경기 성남시 분당구 야탑로 24 분당빌딩 101호\n(지번) 야탑동 537-2"
+        },
+        {
+            "hospital_name": "24시위드힐동물메디컬센터",
+            "hospital_number": "031-523-3256",
+            "hospital_addr": "경기 남양주시 두물로11번길 42 2층\n(지번) 별내동 931"
+        },
+        {
+            "hospital_name": "24시블레스동물메디컬센터",
+            "hospital_number": "031-546-0942",
+            "hospital_addr": "경기 용인시 기흥구 동백3로11번길 9 동백시티빌 2층 201호\n(지번) 중동 851-2"
+        },
+        {
+            "hospital_name": "의정부24시 해든동물의료센터",
+            "hospital_number": "031-851-7007",
+            "hospital_addr": "경기 의정부시 천보로 68 2층 201호\n(지번) 민락동 805"
+        },
+        {
+            "hospital_name": "24시쓰담쓰담동물메디컬센터",
+            "hospital_number": "031-548-4480",
+            "hospital_addr": "경기 용인시 기흥구 중부대로 364 2동 2층\n(지번) 신갈동 69-8"
+        },
+        {
+            "hospital_name": "24시더클래스동물메디컬센터",
+            "hospital_number": "031-713-7975",
+            "hospital_addr": "경기 성남시 분당구 성남대로 275 아데나팰리스 A동 1층 101-1호\n(지번) 정자동 169-1"
+        },
+        {
+            "hospital_name": "24시딜라이트 동물의료센터",
+            "hospital_number": "02-904-1004",
+            "hospital_addr": "서울 도봉구 도봉로 578 2층 2호\n(지번) 창동 715-1"
+        },
+        {
+            "hospital_name": "24시 동탄 이음동물의료센터",
+            "hospital_number": "031-831-3513",
+            "hospital_addr": "경기 화성시 동탄대로6길 15 1,2층\n(지번) 산척동 555"
+        },
+        {
+            "hospital_name": "24시하랑동물의료센터",
+            "hospital_number": "031-522-6767",
+            "hospital_addr": "경기 남양주시 경춘로 470 1,2층\n(지번) 다산동 3136-2"
+        },
+        {
+            "hospital_name": "아토즈동물병원",
+            "hospital_number": "031-8016-8206",
+            "hospital_addr": "경기 성남시 분당구 판교역로 145 라스트리트 2동 2층 213호\n(지번) 백현동 530"
+        },
+        {
+            "hospital_name": "24시와이즈동물메디컬센터",
+            "hospital_number": "031-791-8253",
+            "hospital_addr": "경기 하남시 덕풍동로 111-50 트윈렉스2 201, 202, 207, 208호\n(지번) 덕풍동 742"
+        },
+        {
+            "hospital_name": "24시메타동물의료센터",
+            "hospital_number": "031-831-5508",
+            "hospital_addr": "경기 화성시 동탄문화센터로 75 서해더블루 1층\n(지번) 반송동 106-7"
+        },
+        {
+            "hospital_name": "24시고덕동물의료센터",
+            "hospital_number": "1833-3339",
+            "hospital_addr": "경기 평택시 고덕중앙로 218 2층 207~211호\n(지번) 고덕동 1975-1"
+        },
+        {
+            "hospital_name": "24시 양주힐동물의료센터",
+            "hospital_number": "031-859-8275",
+            "hospital_addr": "경기 양주시 옥정동로7길 30 2층 201~203호\n(지번) 옥정동 1036-7"
+        },
+        {
+            "hospital_name": "24시동탄시티동물의료센터",
+            "hospital_number": "031-8003-7533",
+            "hospital_addr": "경기 화성시 동탄지성로 126 정일프라자 2층 202호\n(지번) 반송동 41-1"
+        },
+        {
+            "hospital_name": "24시 모란동물메디컬센터 쌍령점",
+            "hospital_number": "031-765-1100",
+            "hospital_addr": "경기 광주시 경충대로 1448\n(지번) 쌍령동 168-2"
+        },
+        {
+            "hospital_name": "강동24시 SKY동물의료센터",
+            "hospital_number": "02-472-7579",
+            "hospital_addr": "서울 강동구 천호대로 1122\n(지번) 성내동 244-2"
+        },
+        {
+            "hospital_name": "24시핸즈동물의료센터",
+            "hospital_number": "031-8077-2115",
+            "hospital_addr": "경기 화성시 동탄대로 489 우성KTX타워 2층 201,202호\n(지번) 오산동 969-3"
+        },
+        {
+            "hospital_name": "24시더파크동물의료센터",
+            "hospital_number": "02-6949-2475",
+            "hospital_addr": "서울 강동구 성내로 48 1층\n(지번) 성내동 549-1"
+        },
+        {
+            "hospital_name": "제일 종합동물병원",
+            "hospital_number": "031-274-3575",
+            "hospital_addr": "경기 용인시 기흥구 강남동로 15\n(지번) 구갈동 589"
+        },
+        {
+            "hospital_name": "24시동탄윌동물의료센터",
+            "hospital_number": "031-831-3531",
+            "hospital_addr": "경기 화성시 동탄반석로 156 동탄하이페리온 1층\n(지번) 반송동 93-9"
+        },
+        {
+            "hospital_name": "동탄24시동물의료센터",
+            "hospital_number": "031-613-7579",
+            "hospital_addr": "경기 화성시 동탄지성로 2 206호\n(지번) 반송동 90-9"
+        },
+        {
+            "hospital_name": "24시공감365동물의료센터",
+            "hospital_number": "031-575-8275",
+            "hospital_addr": "경기 남양주시 진접읍 해밀예당1로 220 2층 201,202호\n(지번) 진접읍 금곡리 1042"
+        },
+        {
+            "hospital_name": "24시라움동물의료센터",
+            "hospital_number": "031-692-5022",
+            "hospital_addr": "경기 평택시 비전5로 20-24 더테라스 2층 207,208호\n(지번) 비전동 1103-2"
+        },
+        {
+            "hospital_name": "스마일동물병원",
+            "hospital_number": "031-633-7582",
+            "hospital_addr": "경기 이천시 구만리로 177 다나빌딩 2층\n(지번) 진리동 27-3"
+        },
+        {
+            "hospital_name": "24시나우동물메디컬센터",
+            "hospital_number": "041-414-2676",
+            "hospital_addr": "충남 천안시 서북구 불당22대로 79 강남타워 1~3층 101~105, 202, 203, 301, 302호\n(지번) 불당동 1528"
+        },
+        {
+            "hospital_name": "천안24시스카이동물메디컬센터",
+            "hospital_number": "041-415-0975",
+            "hospital_addr": "충남 천안시 서북구 동서대로 165 프라지움11차 2층\n(지번) 성정동 1435"
+        },
+        {
+            "hospital_name": "아산아이윌24시동물메디컬센터",
+            "hospital_number": "041-532-3332",
+            "hospital_addr": "충남 아산시 온천대로 1676 충무빌딩 1층\n(지번) 풍기동 485"
+        },
+        {
+            "hospital_name": "원주24시스카이동물메디컬센터",
+            "hospital_number": "033-813-9975",
+            "hospital_addr": "강원특별자치도 원주시 서원대로 502\n(지번) 단구동 1599-6"
+        },
+        {
+            "hospital_name": "24시청주이음동물의료센터",
+            "hospital_number": "043-715-3133",
+            "hospital_addr": "충북 청주시 흥덕구 2순환로 1112 2층\n(지번) 비하동 220-1"
+        },
+        {
+            "hospital_name": "24시청주나음동물메디컬",
+            "hospital_number": "043-716-1275",
+            "hospital_addr": "충북 청주시 상당구 1순환로 1233 1층\n(지번) 용암동 1703"
+        },
+        {
+            "hospital_name": "24시성심동물메디컬센터",
+            "hospital_number": "042-719-7566",
+            "hospital_addr": "대전 유성구 계룡로 131 1, 2층\n(지번) 봉명동 548-11"
+        },
+        {
+            "hospital_name": "24시도안동물메디컬센터",
+            "hospital_number": "042-710-1502",
+            "hospital_addr": "대전 서구 계백로 1159 1층\n(지번) 도안동 1789"
+        },
+        {
+            "hospital_name": "24시더원동물메디컬센터",
+            "hospital_number": "042-623-8461",
+            "hospital_addr": "대전 동구 계족로 510 1층\n(지번) 용전동 43-1"
+        },
+        {
+            "hospital_name": "24시청주i동물메디컬센터",
+            "hospital_number": "043-214-9975",
+            "hospital_addr": "충북 청주시 청원구 충청대로 103\n(지번) 율량동 1070"
+        },
+        {
+            "hospital_name": "24시 수동물메디컬센터",
+            "hospital_number": "02-2676-7582",
+            "hospital_addr": "서울 영등포구 영등포로 85-1\n(지번) 양평동1가 28-3"
+        },
+        {
+            "hospital_name": "24시 범어동물의료센터",
+            "hospital_number": "053-716-7585",
+            "hospital_addr": "대구 수성구 달구벌대로 2354 1층\n(지번) 수성동3가 10"
+        },
+        {
+            "hospital_name": "대구24시바른동물의료센터",
+            "hospital_number": "053-571-0075",
+            "hospital_addr": "대구 달서구 와룡로 142 2층\n(지번) 감삼동 280-5"
+        },
+        {
+            "hospital_name": "24시노아동물메디컬센터",
+            "hospital_number": "062-222-0075",
+            "hospital_addr": "광주 동구 독립로 292\n(지번) 대인동 320-1"
+        },
+        {
+            "hospital_name": "24시알파동물메디컬센터",
+            "hospital_number": "053-572-7585",
+            "hospital_addr": "대구 서구 서대구로 15\n(지번) 내당동 469-1"
+        },
+        {
+            "hospital_name": "대구24시 라이프동물의료센터",
+            "hospital_number": "053-567-2475",
+            "hospital_addr": "대구 달서구 달구벌대로 1601 1층\n(지번) 감삼동 69-1"
+        },
+        {
+            "hospital_name": "봉선아이24시동물메디컬센터",
+            "hospital_number": "062-412-7500",
+            "hospital_addr": "광주 남구 봉선로 77\n(지번) 봉선동 1156-9"
+        },
+        {
+            "hospital_name": "M수성메트로동물병원",
+            "hospital_number": "053-755-8355",
+            "hospital_addr": "대구 수성구 국채보상로 1006\n(지번) 만촌동 950-1"
+        },
+        {
+            "hospital_name": "24시스카이동물메디컬센터",
+            "hospital_number": "062-719-4275",
+            "hospital_addr": "광주 서구 상무대로 879 두왕빌딩 3~5층\n(지번) 쌍촌동 970-13"
+        },
+        {
+            "hospital_name": "굿모닝동물병원",
+            "hospital_number": "062-573-7171",
+            "hospital_addr": "광주 북구 설죽로 305\n(지번) 용봉동 476-1"
+        },
+        {
+            "hospital_name": "24시포항이음동물의료센터",
+            "hospital_number": "054-612-2475",
+            "hospital_addr": "경북 포항시 남구 효성로93번길 4 1층\n(지번) 효자동 587"
+        },
+        {
+            "hospital_name": "24시리본동물의료센터",
+            "hospital_number": "051-711-0006",
+            "hospital_addr": "부산 동래구 충렬대로 194 동림빌딩 2층\n(지번) 명륜동 506-13"
+        },
+        {
+            "hospital_name": "아이파크동물병원",
+            "hospital_number": "055-222-2475",
+            "hospital_addr": "경남 창원시 마산합포구 해안대로 49 2층\n(지번) 해운동 67-9"
+        },
+        {
+            "hospital_name": "24시센텀동물메디컬센터 연산점",
+            "hospital_number": "051-711-8253",
+            "hospital_addr": "부산 연제구 중앙대로 1084 1~3층\n(지번) 연산동 702-10"
+        },
+        {
+            "hospital_name": "24시더휴동물의료센터",
+            "hospital_number": "051-513-6060",
+            "hospital_addr": "부산 동래구 온천장로 20 신화타워아파트 상가 1층 101-1호\n(지번) 온천동 456-29"
+        },
+        {
+            "hospital_name": "24시연산동물의료센터",
+            "hospital_number": "051-791-0175",
+            "hospital_addr": "부산 연제구 연수로 135 1층\n(지번) 연산동 1953-1"
+        },
+        {
+            "hospital_name": "코알라동물병원",
+            "hospital_number": "",
+            "hospital_addr": "경남 창원시 마산회원구 회원동15길 11\n(지번) 회원1동 50-5"
+        },
+        {
+            "hospital_name": "24시 UN동물의료센터",
+            "hospital_number": "051-624-2475",
+            "hospital_addr": "부산 남구 수영로 221\n(지번) 대연동 1745-9"
+        },
+        {
+            "hospital_name": "24시더나은동물메디컬센터",
+            "hospital_number": "055-716-1175",
+            "hospital_addr": "경남 거제시 동문천로 47\n(지번) 고현동 203-1"
+        },
+        {
+            "hospital_name": "펫츠올동물병원 마산점",
+            "hospital_number": "055-240-5800",
+            "hospital_addr": "경남 창원시 마산합포구 어시장8길 5 롯데백화점 별관주차장 1층 입구\n(지번) 신포동2가 28-4"
+        },
+        {
+            "hospital_name": "부산종합동물병원",
+            "hospital_number": "051-817-4626",
+            "hospital_addr": "부산 부산진구 중앙대로 867 오성빌딩 2층\n(지번) 양정동 519-16"
+        },
+        {
+            "hospital_name": "만덕동물병원",
+            "hospital_number": "051-337-0075",
+            "hospital_addr": "부산 북구 덕천로 227\n(지번) 만덕동 916-7"
+        },
+        {
+            "hospital_name": "해운대24시동물의료원",
+            "hospital_number": "051-702-7581",
+            "hospital_addr": "부산 해운대구 양운로 45 베르나움 1층\n(지번) 좌동 1476-1"
+        },
+        {
+            "hospital_name": "24시똑똑똑동물메디컬센터",
+            "hospital_number": "064-749-7585",
+            "hospital_addr": "제주특별자치도 제주시 도령로 129 1층\n(지번) 연동 2333-8"
+        },
+        {
+            "hospital_name": "부천SKY동물메디컬센터",
+            "hospital_number": "032-323-7579",
+            "hospital_addr": "경기 부천시 길주로 234 힐스에비뉴 2007호\n(지번) 중동 1301"
+        },
+        {
+            "hospital_name": "24시연동물의료센터",
+            "hospital_number": "02-2605-7553",
+            "hospital_addr": "서울 강서구 화곡로 191 1층\n(지번) 화곡동 1060-30"
+        },
+        {
+            "hospital_name": "일산동물의료원",
+            "hospital_number": "031-924-7582",
+            "hospital_addr": "경기 고양시 일산서구 대화로 407\n(지번) 대화동 2038"
+        },
+        {
+            "hospital_name": "24시명동물메디컬센터",
+            "hospital_number": "02-2619-5102",
+            "hospital_addr": "서울 구로구 남부순환로 775 개봉푸르지오상가 105동 201,202호\n(지번) 개봉동 492"
+        },
+        {
+            "hospital_name": "올케어동물영상센터",
+            "hospital_number": "02-3665-7579",
+            "hospital_addr": "서울 강서구 공항대로 335\n(지번) 등촌동 664-1"
+        },
+        {
+            "hospital_name": "솔동물의료센터",
+            "hospital_number": "031-345-4500",
+            "hospital_addr": "경기 군포시 고산로 529 산본9단지 금강2차 주상복합상가 1층 114호\n(지번) 산본동 1147"
+        },
+        {
+            "hospital_name": "한가람동물의료센터",
+            "hospital_number": "02-844-7775",
+            "hospital_addr": "서울 영등포구 도신로 252 1층\n(지번) 신길동 100-12"
+        },
+        {
+            "hospital_name": "안양본동물의료센터",
+            "hospital_number": "031-396-8275",
+            "hospital_addr": "경기 안양시 동안구 시민대로 370\n(지번) 관양동 900-9"
+        },
+        {
+            "hospital_name": "VIP동물의료센터 서초점",
+            "hospital_number": "02-525-3102",
+            "hospital_addr": "서울 서초구 동작대로 36 대광빌딩 1, 2층\n(지번) 방배동 442-3"
+        },
+        {
+            "hospital_name": "VIP동물의료센터 청담점",
+            "hospital_number": "02-511-7522",
+            "hospital_addr": "서울 강남구 삼성로133길 7 베디베로스퀘어 2~4층\n(지번) 청담동 46"
+        },
+        {
+            "hospital_name": "VIP동물의료센터 성북점",
+            "hospital_number": "02-953-0075",
+            "hospital_addr": "서울 성북구 동소문로 73 시티플레이스 지하 1층~2층\n(지번) 동소문동6가 3-1"
+        },
+        {
+            "hospital_name": "본동물의료센터",
+            "hospital_number": "031-248-8275",
+            "hospital_addr": "경기 수원시 장안구 송정로 114\n(지번) 조원동 675-2"
+        },
+        {
+            "hospital_name": "N동물의료센터 노원점",
+            "hospital_number": "02-919-0075",
+            "hospital_addr": "서울 노원구 노원로 408\n(지번) 상계동 318-2"
+        },
+        {
+            "hospital_name": "리베동물메디컬센터",
+            "hospital_number": "02-6953-7502",
+            "hospital_addr": "서울 송파구 삼전로 56 1~4층\n(지번) 삼전동 28-2"
+        },
+        {
+            "hospital_name": "N동물의료센터 강북점",
+            "hospital_number": "02-984-0075",
+            "hospital_addr": "서울 성북구 삼양로4길 3\n(지번) 길음2동 1163"
+        },
+        {
+            "hospital_name": "VIP동물의료센터 동대문점",
+            "hospital_number": "02-2215-7522",
+            "hospital_addr": "서울 동대문구 한천로14길 87 1층 101호\n(지번) 장안동 376-3"
+        },
+        {
+            "hospital_name": "잠실온동물의료센터",
+            "hospital_number": "02-418-0724",
+            "hospital_addr": "서울 송파구 올림픽로 76 J타워 1,2층\n(지번) 잠실동 175-6"
+        },
+        {
+            "hospital_name": "로얄동물메디컬센터 강동",
+            "hospital_number": "02-457-0075",
+            "hospital_addr": "서울 강동구 천호대로 1171 1~3층\n(지번) 길동 236-7"
+        },
+        {
+            "hospital_name": "잠실베스트동물메디컬센터",
+            "hospital_number": "02-2203-7975",
+            "hospital_addr": "서울 송파구 삼학사로 88 1,2층\n(지번) 석촌동 2-9"
+        },
+        {
+            "hospital_name": "VIP반려동물암센터",
+            "hospital_number": "02-511-7522",
+            "hospital_addr": "서울 강남구 삼성로133길 7 베디베로스퀘어 2층\n(지번) 청담동 46"
+        },
+        {
+            "hospital_name": "24시간 대전동물메디컬센터 숲",
+            "hospital_number": "042-826-7584",
+            "hospital_addr": "대전 유성구 한밭대로492번길 16-8\n(지번) 봉명동 664-3"
+        },
+        {
+            "hospital_name": "본동물메디컬센터 24시수성점",
+            "hospital_number": "053-634-7582",
+            "hospital_addr": "대구 수성구 달구벌대로 2545 1층\n(지번) 만촌동 1036-4"
+        },
+        {
+            "hospital_name": "박순석 동물메디컬센터",
+            "hospital_number": "053-657-0959",
+            "hospital_addr": "대구 남구 대명로 72 더원빌딩 2층\n(지번) 대명동 1057"
+        },
+        {
+            "hospital_name": "공감동물메디컬센터",
+            "hospital_number": "062-716-2979",
+            "hospital_addr": "광주 광산구 장신로 72 2층\n(지번) 장덕동 1658"
+        },
+        {
+            "hospital_name": "유니온동물의료센터",
+            "hospital_number": "053-762-8899",
+            "hospital_addr": "대구 수성구 청수로 135\n(지번) 황금동 848-1"
+        },
+        {
+            "hospital_name": "에스동물메디컬센터 울산점",
+            "hospital_number": "052-707-2475",
+            "hospital_addr": "울산 남구 삼산로 160\n(지번) 달동 116-2"
+        },
+        {
+            "hospital_name": "부산동물메디컬센터",
+            "hospital_number": "051-868-7591",
+            "hospital_addr": "부산 연제구 거제대로 278 1층 부산동물메디컬센터\n(지번) 거제1동 2-7"
+        },
+        {
+            "hospital_name": "센텀동물메디컬센터 수영점",
+            "hospital_number": "051-746-7582",
+            "hospital_addr": "부산 수영구 연수로 407-1 2,3층\n(지번) 수영동 450-11"
+        },
+        {
+            "hospital_name": "놀로스퀘어",
+            "hospital_number": "1644-8590",
+            "hospital_addr": "서울 강남구 삼성로133길 7 1~7층\n(지번) 청담동 46"
+        }
+    ]
+}

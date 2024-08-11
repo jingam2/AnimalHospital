@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kakao Map Example</title>
+    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=YOUR_KAKAO_MAP_API_KEY"></script>
+</head>
+<body>
+    <div id="map" style="width: 100%; height: 400px;"></div>
+    <script>
+        // Kakao Map Initialization
+        var mapContainer = document.getElementById('map');
+        var mapOptions = {
+            center: new kakao.maps.LatLng(37.5665, 126.9780), // Default center (Seoul)
+            level: 3
+        };
+
+        var map = new kakao.maps.Map(mapContainer, mapOptions);
+
+        // Get User's Geolocation
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(function (position) {
+                var lat = position.coords.latitude;
+                var lng = position.coords.longitude;
+                var userLatLng = new kakao.maps.LatLng(lat, lng);
+
+                // Add User's Marker
+                var userMarker = new kakao.maps.Marker({
+                    position: userLatLng
+                });
+                userMarker.setMap(map);
+
+                // Pan to User's Location
+                map.panTo(userLatLng);
+            });
+        }
+    </script>
+</body>
+</html>
